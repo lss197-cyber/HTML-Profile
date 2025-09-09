@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
-    <head>Alvin and the Chipmunks
+    <head>
+        <title>Alvin and the Chipmunks</title>
         <meta name="author" content="Lia Suk">
         <!--This code shows the author of the website-->
         <meta name="description" content="This website is about Alvin and the Chipmunks"
@@ -10,12 +11,13 @@
     </head>
     <body>
         <header>
-            <h1>About the Chipmunks</h1>
-            <p>Based in Hollywood, CA, Alvin and the Chipmunks is a music group featuring three chipmunk brothers known for their high-pitched voices and energetic personalities. The group gained popularity through hit novelty records, TV shows, and movies. Over the decades, they’ve remained a beloved part of pop culture, entertaining multiple generations with their comedic adventures and musical covers.</p>
+            <h1><u>About the Chipmunks</u></h1>
+            <p>Based in <em>Hollywood, CA,</em> Alvin and the Chipmunks is a music group featuring three chipmunk brothers known for their high-pitched voices and energetic personalities. The group gained popularity through hit novelty records, TV shows, and movies. Over the decades, they’ve remained a beloved part of pop culture, entertaining multiple generations with their comedic adventures and musical covers.</p>
+            <a href="https://www.youtube.com/watch?v=AOlmBQ1a1-4&list=RDAOlmBQ1a1-4&start_radio=1" target="_blank">The Christmas Song</a>
         </header>
         <main>
             <h2>Early life and Career</h2> 
-            <p>Alvin, Simon, and Theodore are chipmunk brothers who were discovered and adopted by songwriter Dave Seville, who also became their manager. Created by Ross Bagdasarian Sr., the Chipmunks made their debut in 1958 with the hit single “The Chipmunk Song (Christmas Don’t Be Late),” which launched their music career and became a holiday classic. Their early success led to albums, television appearances, and a growing fan base.</p>
+            <p>Alvin, Simon, and Theodore are chipmunk brothers who were discovered and adopted by songwriter <strong>Dave Seville</strong>, who also became their manager. Created by <strong>Ross Bagdasarian Sr.</strong>, the Chipmunks made their debut in 1958 with the hit single “The Chipmunk Song (Christmas Don’t Be Late),” which launched their music career and became a holiday classic. Their early success led to albums, television appearances, and a growing fan base.</p>
             <h3>Albums</h3>
             <ol>
                 <li>Let’s All Sing with The Chipmunks (1959)</li>
@@ -27,7 +29,7 @@
                 <li>The Chipmunks Sing with Children (1965)</li>
                 <li>Chipmunks à Go‑Go (1965)</li>
                 <li>The Chipmunks See Doctor Dolittle (1968)</li>
-            </ol>
+                <li>See Discography for more</li><a href=https://genius.com/artists/Alvin-and-the-chipmunks/albums target="_blank">Discography</a></ol>
             <h2>Awards and Accolades</h2>
             <ul>
                 <li>3 × Grammy wins – including Best Recording for Children</li>
@@ -37,9 +39,9 @@
             </ul>
             <h3>Photo Gallery</h3>
                 <figure>
-                    <img src="images/Alvin and the chipmunks image 1.avif" alt="The chipmunks">
+                    <img src="images/Alvin and the chipmunks image 1.avif" width="700" alt="The chipmunks">
                     <figcaption>The chipmunks in their early years</figcaption>
-                    <img src="images/Alvin and the chipmunks image 2.avif" alt="the Chipmunks">
+                    <img src="images/Alvin and the chipmunks image 2.webp" alt="the Chipmunks">
                     <figcaption>The Chipmunks today</figcaption>
                     <img src="images/Alvin_and_the_Chipmunks_New.webp" alt="The chipmunks">
                     <figcaption>The chipmunks being cool</figcaption>
@@ -47,8 +49,6 @@
 
 
         </main>
-
-
 
     </body>
     
