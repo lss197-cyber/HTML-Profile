@@ -4,8 +4,8 @@
         <title>Alvin and the Chipmunks</title>
         <meta name="author" content="Lia Suk">
         <!--This code shows the author of the website-->
-        <meta name="description" content="This website is about Alvin and the Chipmunks"
-        <meta name="Keywords" content="Alvin, Chipmunks, Simon, Theodore, movie, singers, band"
+        <meta name="description" content="This website is about Alvin and the Chipmunks">
+        <meta name="Keywords" content="Alvin, Chipmunks, Simon, Theodore, movie, singers, band"<
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
     </head>
@@ -40,11 +40,11 @@
             <h3>Photo Gallery</h3>
                 <figure>
                     <img src="images/Alvin and the chipmunks image 1.avif" width="700" alt="The chipmunks">
-                    <figcaption>The chipmunks in their early years</figcaption>
+                        <figcaption>The chipmunks in their early years</figcaption>
                     <img src="images/Alvin and the chipmunks image 2.webp" alt="the Chipmunks">
-                    <figcaption>The Chipmunks today</figcaption>
+                        <figcaption>The Chipmunks today</figcaption>
                     <img src="images/Alvin_and_the_Chipmunks_New.webp" alt="The chipmunks">
-                    <figcaption>The chipmunks being cool</figcaption>
+                        <figcaption>The chipmunks being cool</figcaption>
                 </figure>
 
 
