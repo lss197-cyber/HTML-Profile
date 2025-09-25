@@ -1,8 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Bitcount+Ink:wght@100..900&display=swap');
 body{
-    background-color:green;
-    background-color:rgba(0, 255, 0, 1.0);
-    background-color: #c0e4c1
+    background-image: url("../images/rainbow.webp")
 
 
     /* write a comment in css*/
@@ -13,6 +11,7 @@ header{
     padding: 20px;
     border:5px solid lightskyblue;
     margin-top:-7px;
+    margin-bottom:20px;
     margin-left:auto;
     margin-right:auto;
 }
@@ -20,16 +19,83 @@ header{
 main{
     width:960px;
     background-color:lightgoldenrodyellow;
+    border:5px solid rgb(97, 173, 97);
     padding-top:20px;
     padding-bottom:20px;
     padding-left:20px;
     padding-right:20px;
     margin:0px auto;
+    margin-bottom:20px;
+}
+footer{
+    width:960px;
+    height:50px;
+    background-color:lavenderblush;
+    padding:20px;
+    border:5px solid lightpink;
+    margin:auto;
+
+}
+
+.my-element {
+	background: linear-gradient(black, white);
 }
 
 h1{
-    font-family: "Bitcount+Ink", sans-serif;
+    font-family: "Bitcount Ink", sans-serif;
     text-align:center;
     font-weight:100;
    
 }
+h2{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-transform:capitalize;
+
+}
+
+.title{
+    color:blueviolet
+}
+
+.light{
+    background-color:aliceblue
+}
+
+.dark{
+    background-color:rgb(188, 218, 188)
+}
+
+img {
+      border: 2px solid #333; /* Adds a border */
+      border-radius: 8px; /* Rounds the corners */
+    }
+
+
+
+nav{
+    width: 800px;
+    margin:0px auto;
+    border-bottom:black 1px solid;
+
+}
+nav ul{
+
+}
+
+nav ul li{
+    list-style: none;
+    display: inline-block;
+    margin-left: 50px;
+
+}
+nav ul li a{
+    text-decoration:none;
+    font-family:"roboto", sans-serif;
+    font-size:20px;
+    font-weight:900;
+
+
+}
+
+nav ul li a:hover{
+    background-color: lavender;
